@@ -11,12 +11,6 @@ We welcome and encourage all members of the MIT community. Questions of AI ethic
 ## Organizers
 
 <p>
-<img src="/irene.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
-<a href="http://irenechen.net">Irene Chen</a> is a PhD student at MIT in the <a href="http://clinicalml.org">Clinical Machine Learning Group</a>. Her research focuses on advancing machine learning in health care and fairness. Before MIT, she received her AB/SM from Harvard and worked at Dropbox for two years as a Data Scientist, Machine Learning Engineer, and Chief of Staff. In her free time, she enjoys long distance running and eating broccoli.
-</p>
-
-<br>
-<p>
 <img src="/leilani.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 <a href="http://people.csail.mit.edu/lgilpin/">Leilani H. Gilpin</a> is a PhD student in Electrical Engineering and
 Computer Science at MIT.  Her area of focus is explanatory artificial
@@ -35,3 +29,14 @@ UC San Diego in 2011.
 <img src="/harini.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
 <a href="http://harinisuresh.com/">Harini Suresh</a> graduated from MIT with Bachelor's and Master's degrees in Computer Science, and she's sticking around for her PhD. She's particularly interested in alogrithmic fairness -- how to make machine learning algorithms more understandable and easier to use responsibly. Her past research focused on predicting intervention onset and weaning with ICU timeseries data. She's spent a couple summers enjoying the West Coast as a data science intern at Jawbone and Zephyr Health. She also love traveling, hiking, farmer's markets, cooking, taking photographs, and reading.
 </p>
+
+### Past Organizers
+
+
+<p>
+<img src="/irene.jpg" alt="..." class="float-left mr-2" width="120px" style="float: left; margin-right: 10px;">
+  <br>
+<a href="http://irenechen.net">Irene Chen</a>
+</p>
+
+<br>
